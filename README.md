@@ -31,5 +31,5 @@ The project delivers a comprehensive analysis and predictive models that can ide
 
 ### Objective 1
 Sample dataset 
-# ![Sample Dataset](screenshots/sample-dataset.png)
+# ![Sample Dataset](screenshots/sample_dataset.png)
 
