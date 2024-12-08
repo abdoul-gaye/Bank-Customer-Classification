@@ -28,3 +28,7 @@ The bank's product team aimed to increase revenue by minimizing churn rates. To 
 
 ## 📈 **Results**  
 The project delivers a comprehensive analysis and predictive models that can identify customers at high risk of churn, helping the bank take data-driven actions to improve customer retention.
+
+### Objective 1
+Sample dataset 
+![Alt Text](path/to/sample dataset.png)
