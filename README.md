@@ -6,10 +6,10 @@ Build a classification model to predict which bank customers are most likely to 
 
 
 ## 📊 Bank Churn Analysis (Classification)
-#📝 Project Overview
+###📝 Project Overview
 In this project, I took on the role of a Data Scientist for the Bank of Mavenland. The objective was to help reduce customer churn by identifying clients at the highest risk of leaving. By leveraging data analysis and machine learning techniques, I built classification models to predict customer churn and provide insights for targeted retention strategies.
 
-##🎯 Assignment Goals
+###🎯 Assignment Goals
 The bank's product team aimed to increase revenue by minimizing churn rates. To achieve this, I developed a classification model capable of identifying high-risk customers, enabling the business to proactively address potential churn.
 
 ## 🚀 Project Objectives
