@@ -20,10 +20,10 @@ Develop and evaluate a Logistic Regression model.
 Build and fine-tune a Random Forest model.
 Model Evaluation: Compare model performance and select the best approach for identifying churn-prone customers.
 ## 🛠️ Technologies Used
-Python
-Pandas
-Scikit-Learn
-Matplotlib / Seaborn
-Jupyter Notebook
-📈 Results
+# Python
+# Pandas
+# Scikit-Learn
+# Matplotlib / Seaborn
+# Jupyter Notebook
+## 📈 Results
 The project delivers a comprehensive analysis and predictive models that can identify customers at high risk of churn, helping the bank take data-driven actions to improve customer retention.
