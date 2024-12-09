@@ -38,7 +38,7 @@ Your first objective is to import the data and explore relationships between the
    ![Sample Dataset](screenshots/sample_dataset.png)
 
 2. **Check for missing values** and calculate the **min, max, and mean** for numeric columns.  
-   ![Missing Values](screenshots/missing-values.png)
+   ![Missing Values](screenshots/data_quality_check.png)
 
 3. **Build a scatterplot matrix** to find relationships between all pairs of numeric columns.  
    ![Scatterplot Matrix](screenshots/scatterplot_matrix.png)
