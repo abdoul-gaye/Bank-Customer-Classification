@@ -44,7 +44,7 @@ Your first objective is to import the data and explore relationships between the
    ![Scatterplot Matrix](screenshots/scatterplot_matrix.png)
 
 4. **Build box plots** for each numeric column broken out by the target variable, **“Exited”**.  
-   ![Box Plots](screenshots/box-plots.png)
+   ![Box Plots](screenshots/box_plots.png)
 
 5. **Build bar charts** that show the percentage of **“Exited”** by category for each categorical column.  
    ![Bar Charts](screenshots/bar_plot.png)
