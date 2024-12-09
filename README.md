@@ -29,16 +29,13 @@ The bank's product team aimed to increase revenue by minimizing churn rates. To 
 ## 📈 **Results**  
 The project delivers a comprehensive analysis and predictive models that can identify customers at high risk of churn, helping the bank take data-driven actions to improve customer retention.
 
-### Objective 1
-Sample dataset 
-# ![Sample Dataset](screenshots/sample_dataset.png)
 
 ## 🚀 **Objective 1: Profile & Explore the Data**
 
 Your first objective is to import the data and explore relationships between the features and the target variable.
 
 1. **Import the `Churn_Modeling.csv` file** and set an **appropriate data type** for each column.  
-   ![Import Data](screenshots/import-data.png)
+   ![Sample Dataset](screenshots/sample_dataset.png)
 
 2. **Check for missing values** and calculate the **min, max, and mean** for numeric columns.  
    ![Missing Values](screenshots/missing-values.png)
