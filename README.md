@@ -37,7 +37,7 @@ Your first objective is to import the data and explore relationships between the
 1. **Import the `Churn_Modeling.csv` file** and set an **appropriate data type** for each column.  
  
    ![Sample Dataset](screenshots/sample_dataset.png)
-     <img src="screenshots/sample_dataset.png" alt="sample_dataset" width="600">
+     <img src="screenshots/sample_dataset.png" alt="sample_dataset" width="900">
 
 
 3. **Check for missing values** and calculate the **min, max, and mean** for numeric columns.  
