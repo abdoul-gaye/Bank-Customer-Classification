@@ -47,6 +47,6 @@ Your first objective is to import the data and explore relationships between the
    ![Box Plots](screenshots/box-plots.png)
 
 5. **Build bar charts** that show the percentage of **“Exited”** by category for each categorical column.  
-   ![Bar Charts](screenshots/bar-charts.png)
+   ![Bar Charts](screenshots/bar_plot.png)
 
 
