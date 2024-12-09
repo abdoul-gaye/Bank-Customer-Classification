@@ -35,18 +35,21 @@ The project delivers a comprehensive analysis and predictive models that can ide
 Your first objective is to import the data and explore relationships between the features and the target variable.
 
 1. **Import the `Churn_Modeling.csv` file** and set an **appropriate data type** for each column.  
+ 
    ![Sample Dataset](screenshots/sample_dataset.png)
+     <img src="screenshots/sample_dataset.png" alt="sample_dataset" width="600">
 
-2. **Check for missing values** and calculate the **min, max, and mean** for numeric columns.  
+
+3. **Check for missing values** and calculate the **min, max, and mean** for numeric columns.  
    ![Missing Values](screenshots/data_quality_check.png)
 
-3. **Build a scatterplot matrix** to find relationships between all pairs of numeric columns.  
+4. **Build a scatterplot matrix** to find relationships between all pairs of numeric columns.  
    ![Scatterplot Matrix](screenshots/scatterplot_matrix.png)
 
-4. **Build box plots** for each numeric column broken out by the target variable, **“Exited”**.  
+5. **Build box plots** for each numeric column broken out by the target variable, **“Exited”**.  
    ![Box Plots](screenshots/box_plots.png)
 
-5. **Build bar charts** that show the percentage of **“Exited”** by category for each categorical column.  
+6. **Build bar charts** that show the percentage of **“Exited”** by category for each categorical column.  
    ![Bar Charts](screenshots/bar_plot.png)
 
 
