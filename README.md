@@ -62,8 +62,10 @@ The second objective is to prepare the data for modeling through feature selecti
  
    ![Sample Dataset](screenshots/churn_modeling_df.png)
 
-2. Create dummy variables for categorical columns
+2.  - Create dummy variables for categorical columns
     - Split the data into train and test sets, with 20% of the rows in the test set
+  
+   ![Sample Dataset](screenshots/split_data.png)
 
 
 
