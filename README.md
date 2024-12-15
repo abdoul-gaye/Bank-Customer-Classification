@@ -69,13 +69,39 @@ The second objective is to prepare the data for modeling through feature selecti
 
 ## 🚀 **Objective 3: Build & evaluate a logistic regression model**
 
-Your third objective is to fit a logistic regression model and evaluate it by using a confusion matrix, ROC curve, and precision & recall.
+The third objective is to fit a logistic regression model and evaluate it by using a confusion matrix, ROC curve, and precision & recall.
 
-1.  - Fit a logistic regression model on your training data
+1.  Fit a logistic regression model on your training data
     ![Sample Dataset](screenshots/logistic_regression.png)
-    - Build a confusion matrix to evaluate your model
+    
+2.  Build a confusion matrix to evaluate your model
     ![Sample Dataset](screenshots/confusion_matrix.png)
 
+3.  Calculate accuracy, precision, recall, and F1 for your test data
+    ![Sample Dataset](screenshots/accuracy_precision_recall.png)
+
+4.  Plot an ROC curve and calculate the AUC statistic
+    ![Sample Dataset](screenshots/roc_auc.png)
+
+5.  Plot precision and recall against the model threshold (set the threshold to the value where recall is the highest, but precision is still above 50%)
+    ![Sample Dataset](screenshots/precision_recall_for_model.png)
+    ![Sample Dataset](screenshots/objective_3_final.png)
+
+## 🚀 **Objective 4: Fit & tune a random forest model**
+
+The final objective is to fit a random forest model, tune it using cross validation, and evaluate test accuracy, AUC score, and feature importance.
+
+1.  Fit a random forest model with default hyperparameters
+    ![Sample Dataset](screenshots/random_forest_model.png)
+
+2.  Use cross validation to tune your model's hyperparameters
+    ![Sample Dataset](screenshots/tune_model.png)
+
+3.  Report the final test accuracy and AUC score
+    ![Sample Dataset](screenshots/tune_model.png)
+
+4.  Build a bar chart that shows feature importance
+    ![Sample Dataset](screenshots/tune_model.png)
 
 
 
