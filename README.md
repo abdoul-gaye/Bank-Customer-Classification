@@ -56,7 +56,9 @@ The first objective is to import the data and explore relationships between the 
 
 The second objective is to prepare the data for modeling through feature selection, feature engineering, and data splitting.
 
-1. Drop columns that aren’t suitable for modeling from the dataset and create a new column, “balance_to_income”, by dividing “Balance” by “EstimatedSalary”.
+1. Drop columns that aren’t suitable for modeling from the dataset. 
+# Create a new column, “balance_to_income”, by dividing “Balance” by “EstimatedSalary”.
+# Create a new column, “income_v_products”, by dividing “EstimatedSalary” by “NumOfProducts”
  
    ![Sample Dataset](screenshots/churn_modeling_df.png)
 
