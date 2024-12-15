@@ -32,7 +32,7 @@ The project delivers a comprehensive analysis and predictive models that can ide
 
 ## 🚀 **Objective 1: Profile & Explore the Data**
 
-Your first objective is to import the data and explore relationships between the features and the target variable.
+The first objective is to import the data and explore relationships between the features and the target variable.
 
 1. **Import the `Churn_Modeling.csv` file** and set an **appropriate data type** for each column.  
  
@@ -52,4 +52,23 @@ Your first objective is to import the data and explore relationships between the
 6. **Build bar charts** that show the percentage of **“Exited”** by category for each categorical column.  
    ![Bar Charts](screenshots/bar_plot.png)
 
+## 🚀 **Objective 2: Prepare the data for modeling**
 
+The second objective is to prepare the data for modeling through feature selection, feature engineering, and data splitting.
+
+1. Drop columns that aren’t suitable for modeling from the dataset and create a new column, “balance_to_income”, by dividing “Balance” by “EstimatedSalary”.
+ 
+   ![Sample Dataset](screenshots/sample_dataset.png)
+
+
+
+
+
+
+
+
+
+
+
+
+   
