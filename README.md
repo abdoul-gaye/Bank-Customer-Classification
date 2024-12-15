@@ -58,7 +58,7 @@ The second objective is to prepare the data for modeling through feature selecti
 
 1. Drop columns that aren’t suitable for modeling from the dataset and create a new column, “balance_to_income”, by dividing “Balance” by “EstimatedSalary”.
  
-   ![Sample Dataset](screenshots/sample_dataset.png)
+   ![Sample Dataset](screenshots/churn_modeling_df.png)
 
 
 
