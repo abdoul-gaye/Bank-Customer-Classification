@@ -95,13 +95,16 @@ The final objective is to fit a random forest model, tune it using cross validat
     ![Sample Dataset](screenshots/random_forest_model.png)
 
 2.  Use cross validation to tune your model's hyperparameters
-    ![Sample Dataset](screenshots/tune_model.png)
+    ![Sample Dataset](screenshots/randomised_search.png)
+    ![Sample Dataset](screenshots/grid_search.png)
 
 3.  Report the final test accuracy and AUC score
-    ![Sample Dataset](screenshots/tune_model.png)
+    ![Sample Dataset](screenshots/random_forest_classifier_train_test.png)
+    ![Sample Dataset](screenshots/auc_score.png)
 
-4.  Build a bar chart that shows feature importance
-    ![Sample Dataset](screenshots/tune_model.png)
+5.  Build a bar chart that shows feature importance
+    ![Sample Dataset](screenshots/bar_chart_feature_importance.png)
+    
 
 
 
