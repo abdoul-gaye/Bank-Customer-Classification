@@ -67,6 +67,16 @@ The second objective is to prepare the data for modeling through feature selecti
   
    ![Sample Dataset](screenshots/split_data.png)
 
+## 🚀 **Objective 3: Build & evaluate a logistic regression model**
+
+Your third objective is to fit a logistic regression model and evaluate it by using a confusion matrix, ROC curve, and precision & recall.
+
+1.  - Fit a logistic regression model on your training data
+    ![Sample Dataset](screenshots/logistic_regression.png)
+    - Build a confusion matrix to evaluate your model
+    ![Sample Dataset](screenshots/confusion_matrix.png)
+
+
 
 
 
